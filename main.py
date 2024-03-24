@@ -9,4 +9,7 @@ pole_prostokata=bok_a*bok_b
 print(pole_prostokata)
 
 
-
+podstawa = 5
+wysokosc = 9
+pole_trojkata=0.5*podstawa*wysokosc
+print(pole_trojkata)
