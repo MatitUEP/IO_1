@@ -13,3 +13,9 @@ podstawa = 5
 wysokosc = 9
 pole_trojkata=0.5*podstawa*wysokosc
 print(pole_trojkata)
+
+
+bok_a = 3
+bok_b = 8
+pole_szesciana=bok_a*bok_b*6
+print(pole_szesciana)
